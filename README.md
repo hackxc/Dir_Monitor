@@ -9,6 +9,6 @@
 
 其他利用常见：代码审计，监控文件目录是否上传成功  
 
-![img](https://github.com/hackxc/Dir_Monitor/blob/master/demo.png)  
+如果不指定保存的目录(-s) 仅会提示新的文件，不会移动文件  
 
-如果不指定保存的目录(-s) 仅会提示新的文件，不会移动文件
+![img](https://github.com/hackxc/Dir_Monitor/blob/master/demo.png)  
